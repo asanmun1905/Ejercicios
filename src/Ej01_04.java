@@ -1,4 +1,4 @@
-public class Ejercicio4 {
+public class Ej01_04 {
     public static void main(String[] args) {
         final String SSII = "\u001B[36mSSII\u001B[0m";
         final String BBDD = "\u001B[32mBBDD\u001B[0m";

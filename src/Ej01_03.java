@@ -1,4 +1,4 @@
-public class Ejercicio3 {
+public class Ej01_03 {
     public static void main(String[] args) {
         System.out.printf("%-12s%-12s%n", "Table", "Mesa");
         System.out.printf("%-12s%-12s%n", "Computer", "Ordenador");
