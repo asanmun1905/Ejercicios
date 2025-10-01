@@ -9,6 +9,6 @@ public class Ej03_01 {
         System.out.println("Introduzca el segundo número: ");
         int num2 = s.nextInt();
         System.out.printf("%d * %d = %d", num1, num2, num1 * num2);
-
+        s.close();
     }
 }
