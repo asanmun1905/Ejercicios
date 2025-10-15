@@ -1,10 +1,9 @@
-public class Ej05_05 {
+public class Ej05_06 {
     public static void main(String[] args) {
-        int c = 20;
-        int i = 16;
-        while (i>=8){
+        int i = 16, c = 20;
+        do { 
             System.out.printf("%d ", i*c);
             i--;
-        }
+        } while (i >= 8);
     }
 }
